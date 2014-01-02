@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>850A4087-6FAA-435C-9C50-C75583E8AC02</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cocos2d_libs</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3E797642-F491-4277-9E56-26E56417570A</key>
+		<string>https://github.com/jonesbrandon292/CocosProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cocos2d_libs.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3E797642-F491-4277-9E56-26E56417570A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jonesbrandon292/CocosProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3E797642-F491-4277-9E56-26E56417570A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E797642-F491-4277-9E56-26E56417570A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CocosProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>

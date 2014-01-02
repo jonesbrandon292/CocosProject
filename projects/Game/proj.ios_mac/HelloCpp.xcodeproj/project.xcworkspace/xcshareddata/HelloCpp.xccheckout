@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>4CC168DA-F80D-4D53-B2EA-B6F9C9CEC721</string>
+	<string>162E8C49-4ED1-4C3B-B02A-AD5F73D7E824</string>
 	<key>IDESourceControlProjectName</key>
 	<string>HelloCpp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8F6C13B5-FD3D-44DF-88F6-81CBCE4FC7AB</key>
-		<string>https://github.com/jonesbrandon292/New_Week4_ETM.git</string>
+		<key>3E797642-F491-4277-9E56-26E56417570A</key>
+		<string>https://github.com/jonesbrandon292/CocosProject.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>cocos2d-x-3.0alpha0/projects/Game/proj.ios_mac/HelloCpp.xcodeproj/project.xcworkspace</string>
+	<string>projects/Game/proj.ios_mac/HelloCpp.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8F6C13B5-FD3D-44DF-88F6-81CBCE4FC7AB</key>
-		<string>../../../../../..</string>
+		<key>3E797642-F491-4277-9E56-26E56417570A</key>
+		<string>../../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jonesbrandon292/New_Week4_ETM.git</string>
+	<string>https://github.com/jonesbrandon292/CocosProject.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8F6C13B5-FD3D-44DF-88F6-81CBCE4FC7AB</string>
+	<string>3E797642-F491-4277-9E56-26E56417570A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8F6C13B5-FD3D-44DF-88F6-81CBCE4FC7AB</string>
+			<string>3E797642-F491-4277-9E56-26E56417570A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>New_Week4_ETM</string>
+			<string>CocosProject</string>
 		</dict>
 	</array>
 </dict>
