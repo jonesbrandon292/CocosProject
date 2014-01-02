@@ -55,23 +55,14 @@ bool HelloWorld::init()
     // add a label shows "Hello World"
     // create and initialize a label
     
-    auto label = LabelTTF::create("Main Menu", "Arial", 24);
+    auto label = LabelTTF::create("The Simple Game", "Arial", 24);
     
     // position the label on the center of the screen
     label->setPosition(Point(origin.x + visibleSize.width/2,
-                            origin.y + visibleSize.height - label->getContentSize().height));
+                            (origin.y + visibleSize.height - label->getContentSize().height) * 0.85f));
 
     // add the label as a child to this layer
     this->addChild(label, 1);
-
-//    // add "HelloWorld" splash screen"
-//    auto sprite = Sprite::create("HelloWorld.png");
-//
-//    // position the sprite on the center of the screen
-//    sprite->setPosition(Point(visibleSize.width/2 + origin.x, visibleSize.height/2 + origin.y));
-//
-//    // add the sprite as a child to this layer
-//    this->addChild(sprite, 0);
     
     auto playButton = MenuItemImage::create("Play_Button.png", "Play_Button.png", CC_CALLBACK_1(HelloWorld::PlayButtonCallback, this));
 

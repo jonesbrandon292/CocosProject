@@ -67,7 +67,7 @@ bool GameScene::init()
     
     // position the label on the center of the screen
     label->setPosition(Point(origin.x + visibleSize.width/2,
-                             origin.y + visibleSize.height - label->getContentSize().height));
+                             (origin.y + visibleSize.height - label->getContentSize().height) * 0.85f));
     
     // add the label as a child to this layer
     this->addChild(label, 1);
